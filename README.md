@@ -1,7 +1,5 @@
 # Projeto de Receitas!
 
----
-
 # Habilidades
 
 Nesse projeto, você será capaz de:
